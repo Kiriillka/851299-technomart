@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Кирилл Козлов](https://up.htmlacademy.ru/htmlcss/22/user/851299).
-* Наставник: [Гоша Егорян].(https://htmlacademy.ru/profile/id85633)
+* Наставник: [Гоша Егорян](https://htmlacademy.ru/profile/id85633).
 
 ---
 
